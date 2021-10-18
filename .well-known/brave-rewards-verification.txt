@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: monicaparroyo.github.io
+Token: a1596313427be80b4df3edc739735c56939a897628b8b219b401d2560aaf4e7c
