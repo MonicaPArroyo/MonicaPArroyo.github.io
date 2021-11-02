@@ -568,3 +568,12 @@ b, strong {
     vertical-align: top;
   }
 }
+
+.custom-img {
+  image-rendering: pixelated;
+  width: 64px;
+}
+.custom-img-tink {
+  image-rendering: pixelated;
+  width: 66px;
+}
