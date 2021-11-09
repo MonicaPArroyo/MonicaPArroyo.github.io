@@ -569,6 +569,9 @@ b, strong {
   }
 }
 
+.custom-me {
+  image-rendering: pixelated;
+}
 .custom-img {
   image-rendering: pixelated;
   width: 64px;
